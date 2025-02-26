@@ -1,5 +1,5 @@
 # transcript-diff
-A small web app based on a diff library that shows the difference between transcripts.
+A small clientside web app based on a diff library, that shows the difference between transcripts.
 
 This uses a modified version of [jsdifflib](http://github.com/cemerick/jsdifflib)
 

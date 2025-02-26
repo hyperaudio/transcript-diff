@@ -5,4 +5,4 @@ This uses a modified version of http://github.com/cemerick/jsdifflib
 
 ---
 
-GitHub Pages version : https://hyperaudio.github.io/transcript-diff/
+Try out the GitHub Pages version : https://hyperaudio.github.io/transcript-diff/
